@@ -1,0 +1,31 @@
+{
+  "created_utc": "2026-11-06T09:50:11Z",
+  "runtime_seconds": 434.6131501197815,
+  "training_replications": 5,
+  "stress_scenarios": 12,
+  "stress_replications_per_scenario": 15,
+  "gain_factors": [
+    0.0,
+    0.25,
+    0.5,
+    0.75,
+    1.0,
+    1.25,
+    1.5,
+    2.0
+  ],
+  "extended_order_sizes": [
+    40,
+    60,
+    100,
+    200,
+    400
+  ],
+  "exact_trace_checks": true,
+  "notes": [
+    "All stress and scale comparisons use paired instances.",
+    "No policy is retrained for the stress or scale transfer tests.",
+    "Every full-versus-lazy comparison asserts identical action traces and terminal quality metrics.",
+    "Wall-clock values are machine-specific; component and task-scan counts are deterministic."
+  ]
+}
