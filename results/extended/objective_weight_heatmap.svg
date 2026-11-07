@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="765" height="465">
+<rect width="100%" height="100%" fill="white"/>
+<style>text{font-family:Arial,sans-serif;fill:#222}.t{font-size:19px;font-weight:bold}.a{font-size:14px}.v{font-size:13px;font-weight:bold}</style>
+<text x="382.5" y="28" text-anchor="middle" class="t">Preference sensitivity: adaptive minus fixed</text>
+<text x="140" y="101.0" text-anchor="end" class="a">0.0</text>
+<rect x="150" y="65" width="115" height="62" fill="#efaeaa" stroke="white"/>
+<text x="207.5" y="101.0" text-anchor="middle" class="v">+0.0072</text>
+<rect x="265" y="65" width="115" height="62" fill="#f9e2e1" stroke="white"/>
+<text x="322.5" y="101.0" text-anchor="middle" class="v">+0.0026</text>
+<rect x="380" y="65" width="115" height="62" fill="#e7f0f7" stroke="white"/>
+<text x="437.5" y="101.0" text-anchor="middle" class="v">-0.0021</text>
+<rect x="495" y="65" width="115" height="62" fill="#b4d1e7" stroke="white"/>
+<text x="552.5" y="101.0" text-anchor="middle" class="v">-0.0068</text>
+<rect x="610" y="65" width="115" height="62" fill="#80b2d6" stroke="white"/>
+<text x="667.5" y="101.0" text-anchor="middle" class="v">-0.0114</text>
+<text x="140" y="163.0" text-anchor="end" class="a">0.15</text>
+<rect x="150" y="127" width="115" height="62" fill="#f3c2bf" stroke="white"/>
+<text x="207.5" y="163.0" text-anchor="middle" class="v">+0.0054</text>
+<rect x="265" y="127" width="115" height="62" fill="#fdf6f5" stroke="white"/>
+<text x="322.5" y="163.0" text-anchor="middle" class="v">+0.0008</text>
+<rect x="380" y="127" width="115" height="62" fill="#d3e4f1" stroke="white"/>
+<text x="437.5" y="163.0" text-anchor="middle" class="v">-0.0039</text>
+<rect x="495" y="127" width="115" height="62" fill="#a0c5e0" stroke="white"/>
+<text x="552.5" y="163.0" text-anchor="middle" class="v">-0.0085</text>
+<rect x="610" y="127" width="115" height="62" fill="#6ca6d0" stroke="white"/>
+<text x="667.5" y="163.0" text-anchor="middle" class="v">-0.0132</text>
+<text x="140" y="225.0" text-anchor="end" class="a">0.3</text>
+<rect x="150" y="189" width="115" height="62" fill="#f7d6d4" stroke="white"/>
+<text x="207.5" y="225.0" text-anchor="middle" class="v">+0.0037</text>
+<rect x="265" y="189" width="115" height="62" fill="#f3f8fb" stroke="white"/>
+<text x="322.5" y="225.0" text-anchor="middle" class="v">-0.0010</text>
+<rect x="380" y="189" width="115" height="62" fill="#c0d8ea" stroke="white"/>
+<text x="437.5" y="225.0" text-anchor="middle" class="v">-0.0057</text>
+<rect x="495" y="189" width="115" height="62" fill="#8cb9da" stroke="white"/>
+<text x="552.5" y="225.0" text-anchor="middle" class="v">-0.0103</text>
+<rect x="610" y="189" width="115" height="62" fill="#589ac9" stroke="white"/>
+<text x="667.5" y="225.0" text-anchor="middle" class="v">-0.0150</text>
+<text x="140" y="287.0" text-anchor="end" class="a">0.45</text>
+<rect x="150" y="251" width="115" height="62" fill="#faeae9" stroke="white"/>
+<text x="207.5" y="287.0" text-anchor="middle" class="v">+0.0019</text>
+<rect x="265" y="251" width="115" height="62" fill="#dfecf5" stroke="white"/>
+<text x="322.5" y="287.0" text-anchor="middle" class="v">-0.0028</text>
+<rect x="380" y="251" width="115" height="62" fill="#accce4" stroke="white"/>
+<text x="437.5" y="287.0" text-anchor="middle" class="v">-0.0075</text>
+<rect x="495" y="251" width="115" height="62" fill="#78add3" stroke="white"/>
+<text x="552.5" y="287.0" text-anchor="middle" class="v">-0.0121</text>
+<rect x="610" y="251" width="115" height="62" fill="#448ec3" stroke="white"/>
+<text x="667.5" y="287.0" text-anchor="middle" class="v">-0.0168</text>
+<text x="140" y="349.0" text-anchor="end" class="a">0.6</text>
+<rect x="150" y="313" width="115" height="62" fill="#fefefe" stroke="white"/>
+<text x="207.5" y="349.0" text-anchor="middle" class="v">+0.0001</text>
+<rect x="265" y="313" width="115" height="62" fill="#cce0ee" stroke="white"/>
+<text x="322.5" y="349.0" text-anchor="middle" class="v">-0.0046</text>
+<rect x="380" y="313" width="115" height="62" fill="#98c0de" stroke="white"/>
+<text x="437.5" y="349.0" text-anchor="middle" class="v">-0.0093</text>
+<rect x="495" y="313" width="115" height="62" fill="#64a1cd" stroke="white"/>
+<text x="552.5" y="349.0" text-anchor="middle" class="v">-0.0139</text>
+<rect x="610" y="313" width="115" height="62" fill="#3182bd" stroke="white"/>
+<text x="667.5" y="349.0" text-anchor="middle" class="v">-0.0186</text>
+<text x="207.5" y="398" text-anchor="middle" class="a">0.0</text>
+<text x="322.5" y="398" text-anchor="middle" class="a">1.0</text>
+<text x="437.5" y="398" text-anchor="middle" class="a">2.0</text>
+<text x="552.5" y="398" text-anchor="middle" class="a">3.0</text>
+<text x="667.5" y="398" text-anchor="middle" class="a">4.0</text>
+<text x="437.5" y="450" text-anchor="middle" class="a">Skill-gain weight</text>
+<text x="18" y="220.0" transform="rotate(-90 18 220.0)" text-anchor="middle" class="a">Coverage weight</text>
+</svg>
